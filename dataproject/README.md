@@ -1,7 +1,6 @@
 # Data analysis project
 
-Our project is titled **Data Analysis for Population & GDP in Southern Asia Countries** and is about EXPLAIN.
-
+Our project is titled **Data Analysis for Population & GDP in South Asian Countries** and is about to explore the economic status of south asain countries.
 
 We downloaded all countries' data for the last five years available at World Bank, selecting by three indexes, Total Population, Total GDP and GDP Per Capita respectively. Our project is to plot the latest economic condition of the 9 south Asian countries (Afghanistan, Bhutan, Bangladesh, India, Myanmar, Maldives, Nepal, Pakistan and Sri Lanka). 
 
