@@ -10,4 +10,4 @@ We apply the **following datasets**:
 1. gdp.csv
 1. gdp per capita 
 
-The data can be found from: https://databank.worldbank.org/source/world-development-indicators#
+The data we used can be found from: https://databank.worldbank.org/source/world-development-indicators#
