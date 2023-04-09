@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **** and is about EXPLAIN.
+Our project is titled **Data Analysis for Population & GDP in Southern Asia Countries** and is about EXPLAIN.
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
