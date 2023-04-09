@@ -11,8 +11,8 @@ We apply the **following datasets**:
 1. gdp per capita 
 
 Dependencies: Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-pandas
-numpy
-matplotlib.pyplot
-ipywidgets
-re
+1. pandas
+2. numpy
+3. matplotlib.pyplot
+4. ipywidgets
+5. re
