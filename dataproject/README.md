@@ -4,7 +4,7 @@ Our project is titled **Data Analysis for Population & GDP in Southern Asia Coun
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
-We apply the **following datasets**:
+This project loades three datasets: 
 
 1. population.csv
 1. gdp.csv
