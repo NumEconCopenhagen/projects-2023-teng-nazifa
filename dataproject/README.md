@@ -6,10 +6,8 @@ The **results** of the project can be seen from running [dataproject.ipynb](data
 
 We apply the **following datasets**:
 
-1. population.csv (*source*) 
-1. gdp.csv (*source*)
-1. gdp per capita (*source*)
+1. population.csv
+1. gdp.csv
+1. gdp per capita 
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
-``pip install matplotlib-venn``
