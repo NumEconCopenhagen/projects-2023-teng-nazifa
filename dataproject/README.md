@@ -10,4 +10,9 @@ We apply the **following datasets**:
 1. gdp.csv
 1. gdp per capita 
 
-
+Dependencies: Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
+pandas
+numpy
+matplotlib.pyplot
+ipywidgets
+re
